@@ -1,0 +1,2 @@
+# EqualityPrinter
+Equality checker
